@@ -5,7 +5,7 @@ Selfbot Discord yang menggunakan **Groq API** untuk menghasilkan respons otomati
 
 ## ✨ Fitur
 - Menggunakan **Groq API** dengan model `mixtral-8x7b-32768`
-- Balasan otomatis dengan variasi panjang dan gaya kasual
+- Autoreply dengan randon max token 
 - Hanya aktif di server dan channel yang diizinkan
 
 ## 🚀 Instalasi
@@ -39,7 +39,4 @@ node selfbot.js
 - Selfbot hanya boleh digunakan untuk tujuan pribadi dan sesuai dengan aturan Discord.
 - Pastikan **token** dan **API key** tidak dibagikan ke publik.
 - Gunakan di server yang mengizinkan penggunaan selfbot.
-
-## 📜 Lisensi
-Proyek ini berada di bawah lisensi **MIT**.
 
