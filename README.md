@@ -4,7 +4,7 @@
 Selfbot Discord yang menggunakan **Groq API** untuk menghasilkan respons otomatis dalam obrolan.
 
 ## ✨ Fitur
-- Menggunakan **Groq API** dengan model `mixtral-8x7b-32768`
+- Menggunakan [Groq Console - API Keys](https://console.groq.com/keys)  dengan model `mixtral-8x7b-32768`
 - Autoreply dengan randon max token 
 - Hanya aktif di server dan channel yang diizinkan
 
